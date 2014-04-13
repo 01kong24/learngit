@@ -3,4 +3,8 @@ ok
 c
 creating
 ok
+<<<<<<< HEAD
 ono
+=======
+GPR
+>>>>>>> ft
